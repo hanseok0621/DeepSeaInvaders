@@ -39,10 +39,10 @@ Deep-Sea-Invaders/
 ## 📸 게임 화면
 
 ### 시작 화면
-![alt text](readme\startImage.png)
+![startImage.png](readme/startImage.png)
 
 ### 게임 오버
-![alt text](readme\overImage.png)
+![overImage.png](readme/overImage.png)
 
 ### 게임 클리어
-![alt text](readme\clearImage.png)
+![clearImage.png](readme/clearImage.png)
