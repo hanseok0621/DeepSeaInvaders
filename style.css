@@ -1,0 +1,62 @@
+canvas {
+    background: url('images/ocean_background.png') no-repeat center center;
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #hud {
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    margin-top: 10px;
+    background: #222;
+    padding: 10px;
+  }
+  
+  #startScreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: sans-serif;
+  }
+  
+  #startScreen button {
+    padding: 14px 28px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 12px;
+    background-color: #00bfff;
+    color: white;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  #startScreen button:hover {
+    background-color: #009acd;
+  }
+  
+  .restart-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #00bfff;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .restart-button:hover {
+    background-color: #009acd;
+  }
+  
