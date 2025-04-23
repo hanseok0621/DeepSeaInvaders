@@ -18,9 +18,9 @@
 
 ## 🛠 사용 기술
 
-- `HTML5` canvas API
-- `CSS`
-- `JavaScript` 
+- <b>HTML5</b> canvas API
+- <b>CSS
+- <b>JavaScript 
 
 ## 🎮 조작법
 
